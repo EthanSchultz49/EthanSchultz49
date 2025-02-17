@@ -9,13 +9,13 @@ I am currently pursuing a masters in Business Analytics from Cal Poly SLO, gradu
 - **SQL**: DDL, DML
 - **Excel**: Sorting & Filtering, Pivot Tables, Basic Formulas
 
-## Projects  
+## Projects
 
-- **[SMART Public Transit ML Analysis](https://github.com/your-repo-link)**  
-  Developed a machine learning model to analyze public transit efficiency, considering factors like ridership, weather, and gas prices.    
+ - **[Fatal Car Crash Analysis](https://github.com/EthanSchultz49/Car-Crash-Project)**  
+  Used the CRISP-DM framework to analyze accident severity based on weather, time of day, and violation types, applying classification models.
 
-- **[Fatal Car Crash Analysis](https://github.com/EthanSchultz49/Car-Crash-Project)**  
-  Used the CRISP-DM framework to analyze accident severity based on weather, time of day, and violation types, applying classification models.  
+- **[BART Public Transit ML Analysis](https://github.com/EthanSchultz49/Bay-Area-Rapid-Transportation-Project)**  
+  Developed a machine learning model to analyze public transit efficiency, considering factors like ridership, weather, and gas prices.
 
 - **[NBA Multi-Level Modeling](https://github.com/EthanSchultz49/NBA-Multi-Level-Model/tree/main)**
   Collected and manipulated data on popular basketball players in order to create a multilevel model to see if their stats increased by season and see if the 
