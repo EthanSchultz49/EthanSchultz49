@@ -14,7 +14,7 @@ I am currently pursuing a masters in Business Analytics from Cal Poly SLO, gradu
 - **[SMART Public Transit ML Analysis](https://github.com/your-repo-link)**  
   Developed a machine learning model to analyze public transit efficiency, considering factors like ridership, weather, and gas prices.    
 
-- **[Fatal Car Crash Analysis]([https://github.com/your-repo-link](https://github.com/EthanSchultz49/Car-Crash-Project))**  
+- **[Fatal Car Crash Analysis](https://github.com/EthanSchultz49/Car-Crash-Project)**  
   Used the CRISP-DM framework to analyze accident severity based on weather, time of day, and violation types, applying classification models.  
 
 - **[NBA Multi-Level Modeling](https://github.com/your-repo-link)**
